@@ -1,0 +1,4 @@
+include ':Parent'
+include ':client'
+include ':Garage'
+rootProject.name = "MultiApps2"
